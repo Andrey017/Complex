@@ -1,6 +1,9 @@
 #ifndef COMPLEX_H
 #define COMPLEX_H
-#include "stdafx.h"
+#include <iostream>
+#include <math.h>
+#include <stdio.h>
+
 
 using namespace std;
 
